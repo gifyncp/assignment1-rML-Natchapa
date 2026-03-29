@@ -83,7 +83,7 @@ Open the notebook file and run all cells from top to bottom.
 * Minor differences between Python and R results may occur
 * These differences do not affect the overall conclusions
 
---
+---
 
 ## AI Acknowledgment
 
