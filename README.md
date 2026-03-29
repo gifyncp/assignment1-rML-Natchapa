@@ -83,3 +83,14 @@ python compas_analysis.py
 
 * Minor differences between Python and R results may occur
 * These differences do not affect the overall conclusions
+
+--
+
+## 🤖 AI Acknowledgment
+
+Generative AI (ChatGPT by OpenAI) was used to assist with:
+- Clarifying assignment requirements
+- Debugging Python code
+- Improving code structure and documentation (README)
+
+All analytical decisions, model implementation, and interpretations were completed and verified independently by the author.
