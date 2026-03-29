@@ -92,4 +92,4 @@ Generative AI (ChatGPT by OpenAI) was used to assist with:
 - Debugging Python code
 - Improving code structure and documentation (README)
 
-All analytical decisions, model implementation, and interpretations were completed and verified independently by the author.
+All analytical decisions, model implementation, and interpretations were completed and verified independently by the me.
