@@ -86,7 +86,7 @@ python compas_analysis.py
 
 --
 
-## 🤖 AI Acknowledgment
+## AI Acknowledgment
 
 Generative AI (ChatGPT by OpenAI) was used to assist with:
 - Clarifying assignment requirements
