@@ -1,8 +1,11 @@
 # Translating an R Machine Learning Workflow into Python
 
 **Name:** Natchapa Aunkay (Gift)
+
 **Course:** DNSC 6330 – Responsible Machine Learning
+
 **Instructor:** Prof. Michael Akinwumi
+
 **Assignment:** Individual Homework 1
 
 ---
@@ -48,15 +51,11 @@ cd assignment1-rML-Natchapa
 
 ### Step 2: Run the analysis
 
-#### Option A: Jupyter Notebook (Recommended)
+#### Jupyter Notebook 
 
 jupyter notebook
 
 Open the notebook file and run all cells from top to bottom.
-
-#### Option B: Python script
-
-python compas_analysis.py
 
 ---
 
